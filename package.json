@@ -1,0 +1,36 @@
+{
+  "name": "ecom-backend-1",
+  "version": "1.0.0",
+  "description": "Backend for E-Commerce MERN App [![Build Status](https://img.shields.io/github/actions/workflow/status/Hussaini04/ecom-backend-1/ci.yml?branch=main)](https://github.com/Hussaini04/ecom-backend-1/actions)\r [![License](https://img.shields.io/github/license/Hussaini04/ecom-backend-1)](LICENSE)\r [![Dependencies](https://img.shields.io/librariesio/github/Hussaini04/ecom-backend-1)](https://github.com/Hussaini04/ecom-backend-1)\r [![Render Deployment](https://img.shields.io/badge/deployed%20on-render-46E3B7?logo=render&logoColor=white)](https://render.com)\r [![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org)",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussaini04/ecom-backend-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hussaini04/ecom-backend-1/issues"
+  },
+  "homepage": "https://github.com/Hussaini04/ecom-backend-1#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "eslint": "^9.36.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.2",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "eslint": "^9.36.0",
+    "nodemon": "^3.1.10"
+  }
+}
