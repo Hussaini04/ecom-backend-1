@@ -1,5 +1,11 @@
 # E-Commerce Web Application - Backend (MVP)
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Hussaini04/ecom-backend-1/ci.yml?branch=main)](https://github.com/Hussaini04/ecom-backend-1/actions)
+[![License](https://img.shields.io/github/license/Hussaini04/ecom-backend-1)](LICENSE)
+[![Dependencies](https://img.shields.io/librariesio/github/Hussaini04/ecom-backend-1)](https://github.com/Hussaini04/ecom-backend-1)
+[![Render Deployment](https://img.shields.io/badge/deployed%20on-render-46E3B7?logo=render&logoColor=white)](https://render.com)
+[![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+
 This repository contains the **backend** of the E-commerce web application built with **Node.js, Express, and MongoDB (MERN stack)**.  
 It provides APIs for **product management, authentication, cart, checkout, and analytics**.
 
